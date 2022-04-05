@@ -1,5 +1,7 @@
 # Cyclegan
 
+![img.png](img.png)
+
 #####1.将图片转换成tfrecords格式
 
 这个项目中提供了一个build_data脚本，用于将图片转换成tfrecords形式。假设我们的图片存放在~/datasets/man2woman/a_resized/和 ~/datasets/man2woman/b_resized目录下，对应的命令就是：
